@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<a href="https://user-images.githubusercontent.com/20521233/162415803-5b3be960-fa1c-4289-9096-ad619c7fd31d.gif" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/20521233/162415803-5b3be960-fa1c-4289-9096-ad619c7fd31d.gif" height="100" /></a>
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e6769663f7261773d74727565](https://user-images.githubusercontent.com/20521233/162415803-5b3be960-fa1c-4289-9096-ad619c7fd31d.gif)
+
 
 <!--
 **Kiril-Pavlov/Kiril-Pavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
