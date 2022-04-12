@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Kiril 👋</h1>
 
 <p align="center">
-I am a begginer web developer. <br />
+I am a enthusiastic web developer. <br />
 - 🌱 I’m currently learning React. <br />
 I am open to new opportunities and learning. <br />
 <a href="https://pavlov.mk/">Portfolio</a> - under development
