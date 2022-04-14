@@ -16,7 +16,7 @@ I am open to new opportunities and learning. <br />
   <a href="mailto:kire_p@yahoo.com">
     <img align="center" src="https://user-images.githubusercontent.com/20521233/162431057-69fb58c1-e62f-4cbf-a125-c93ed1c96279.png" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/kiril-pavlov-627bbb5a/">
+  <a href="https://www.linkedin.com/in/kiril-pavlov/">
     <img align="center" src="https://user-images.githubusercontent.com/20521233/162432724-6c328880-bf4f-4b05-8dab-d7c573e462df.png" height="50" />
   </a>
 </div>
