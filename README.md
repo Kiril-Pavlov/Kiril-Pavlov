@@ -4,7 +4,7 @@
 I am a enthusiastic web developer. <br />
 - 🌱 I’m currently learning React. <br />
 I am open to new opportunities and learning. <br />
-<a href="https://pavlov.mk/">Portfolio</a> - under development
+<a href="https://pavlov.mk/">Portfolio</a>
 </p>
 
 <p align="center">
