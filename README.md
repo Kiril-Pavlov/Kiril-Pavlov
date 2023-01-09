@@ -2,9 +2,9 @@
 
 <p align="center">
 I am a enthusiastic web developer. <br />
-- 🌱 I’m currently learning React. <br />
+- 🌱 I’m currently improving my React skills. <br />
 I am open to new opportunities and learning. <br />
-<a href="https://pavlov.mk/">Portfolio</a>
+<a href="https://pavlov.mk/">Portfolio website</a>
 </p>
 
 <p align="center">
@@ -23,12 +23,13 @@ I am open to new opportunities and learning. <br />
 
 <h2 align="center">Languages and tools</h2>
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162416782-960a5f91-61e1-4776-a904-dcba015d2757.png" height="50" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162417255-09660395-8d5c-47db-8600-87672ee67605.png" height="50" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162422318-366d12fa-6ed4-4726-9599-0612b75d9342.png" height="50" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162425992-18024120-3db8-4b6b-b4d6-53121617f742.png" height="50" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162427652-f337d77d-86a3-4dd7-876d-4b939204fdd4.png" height="50" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162429537-c7f7fd1b-d0bc-43e3-b635-bb32d162fca2.png" height="50" />
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/162416782-960a5f91-61e1-4776-a904-dcba015d2757.png" height="50" alt="HTML5"/>
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/162417255-09660395-8d5c-47db-8600-87672ee67605.png" height="50" alt="CSS3" />
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/162422318-366d12fa-6ed4-4726-9599-0612b75d9342.png" height="50" alt="JavaScript"/>
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/211316059-75bbcd1d-ed12-4681-864a-92236db34d9c.png" height="50" alt="Tailwind"/>
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/162425992-18024120-3db8-4b6b-b4d6-53121617f742.png" height="50" alt="React" />
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/211316788-508243bf-8c75-4275-9984-431bc512c535.svg" height="50" alt="Git"/>
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/162429537-c7f7fd1b-d0bc-43e3-b635-bb32d162fca2.png" height="50" alt="GitHub"/>
 </div>
 <br />
 
@@ -46,21 +47,8 @@ I am open to new opportunities and learning. <br />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Profile views](https://gpvc.arturio.dev/Kiril-Pavlov)
+
+  
 -->
 
-
-<!--
-**Kiril-Pavlov/Kiril-Pavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
