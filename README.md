@@ -46,14 +46,3 @@ I am open to new opportunities and learning. <br />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Profile views](https://gpvc.arturio.dev/Kiril-Pavlov)
-  
-<!-- 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Profile views](https://gpvc.arturio.dev/Kiril-Pavlov)
-
-  
--->
-
-
