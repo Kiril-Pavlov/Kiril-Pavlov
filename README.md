@@ -28,8 +28,13 @@ I am open to new opportunities and learning. <br />
   <img align="center" src="https://user-images.githubusercontent.com/20521233/162422318-366d12fa-6ed4-4726-9599-0612b75d9342.png" height="50" alt="JavaScript"/>
   <img align="center" src="https://user-images.githubusercontent.com/20521233/211316059-75bbcd1d-ed12-4681-864a-92236db34d9c.png" height="50" alt="Tailwind"/>
   <img align="center" src="https://user-images.githubusercontent.com/20521233/162425992-18024120-3db8-4b6b-b4d6-53121617f742.png" height="50" alt="React" />
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" height="50" alt="Nodejs" />
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317406-59de3b72-fae2-4486-b773-9d3c14c41ecc.svg" height="50" alt="MongoDB" />
   <img align="center" src="https://user-images.githubusercontent.com/20521233/211316788-508243bf-8c75-4275-9984-431bc512c535.svg" height="50" alt="Git"/>
   <img align="center" src="https://user-images.githubusercontent.com/20521233/162429537-c7f7fd1b-d0bc-43e3-b635-bb32d162fca2.png" height="50" alt="GitHub"/>
+  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317104-4edc674a-db09-4338-8a05-019e93b278e2.svg" height="50" alt="VSCode"/>
+
+
 </div>
 <br />
 
