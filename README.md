@@ -29,7 +29,7 @@ I am open to new opportunities and learning. <br />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
   <img align="center" src="https://user-images.githubusercontent.com/20521233/211316059-75bbcd1d-ed12-4681-864a-92236db34d9c.png" height="50" alt="Tailwind"/>
   <img align="center" src="https://user-images.githubusercontent.com/20521233/162425992-18024120-3db8-4b6b-b4d6-53121617f742.png" height="50" alt="React" />
-  <img align="center" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/167[…]0213/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50" alt="Next.js"/>
+  <img align="center" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50" alt="Next.js"/>
   <img align="center" src="https://www.sanity.io/static/images/logo_rounded_square.png" height="50" alt="Sanity" />
   <img align="center" src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" height="50" alt="Nodejs" />
   <img align="center" src="https://user-images.githubusercontent.com/20521233/211317406-59de3b72-fae2-4486-b773-9d3c14c41ecc.svg" width="75" alt="MongoDB" />
