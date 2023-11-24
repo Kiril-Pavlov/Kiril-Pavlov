@@ -2,8 +2,7 @@
 
 <p align="center">
 I am a enthusiastic web developer. <br />
-- 🌱 I’m currently improving my React skills. <br />
-I am open to new opportunities and learning. <br />
+- 🌱 I’m currently working as a Full Stack Web Developer. <br />
 <a href="https://pavlov.mk/">Portfolio website</a>
 </p>
 
