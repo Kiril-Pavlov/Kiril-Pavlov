@@ -47,4 +47,4 @@ I am a enthusiastic web developer. <br />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Profile views](https://gpvc.arturio.dev/Kiril-Pavlov)
+
