@@ -46,5 +46,8 @@ I am a enthusiastic web developer. <br />
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiril-Pavlov&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
