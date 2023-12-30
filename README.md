@@ -41,13 +41,20 @@ I am a enthusiastic web developer. <br />
 <br />
 
 <h2 align="center">Statistics</h2>
-
+<div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiril-Pavlov&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)
+
+</div>
+<div align="center">  
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+ </div> 
+<div align="center">  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiril-Pavlov)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+</div>
   
 
