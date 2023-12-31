@@ -6,10 +6,6 @@ I am a enthusiastic web developer. <br />
 <a href="https://pavlov.mk/">Portfolio website</a>
 </p>
 
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/20521233/162415803-5b3be960-fa1c-4289-9096-ad619c7fd31d.gif" height="100" style="position:fixed; top:0px; right:0px;" />
-</p>
-
 <h2 align="center">Contact</h2>
 <div align="center">
   <a href="mailto:kire_p@yahoo.com">
