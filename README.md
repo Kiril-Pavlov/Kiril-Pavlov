@@ -23,10 +23,10 @@
 <br />
 <h2 align="center">What I work with</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode" />
 </p>
 
