@@ -20,7 +20,8 @@
 
 ---
 
-## What I work with
+
+<h2 align="center">What I work with</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
@@ -31,7 +32,8 @@
 
 ---
 
-## What I'm about
+
+<h2 align="center">What I'm about</h2>
 
 - Building UIs that are fast, accessible, and enjoyable to use
 - Clean component architecture over clever hacks
@@ -40,14 +42,16 @@
 
 ---
 
-## Projects
+
+<h2 align="center">Projects</h2>
 
 - 🎬 **[react-movie-app](https://github.com/Kiril-Pavlov/react-movie-app)** — Movie search and browsing app built with React and a public movie API
 - 🍕 **[pizza-app-react](https://github.com/Kiril-Pavlov/pizza-app-react)** — Interactive pizza ordering app in React
 
 ---
 
-## Statistics
+
+<h2 align="center">Statistics</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kiril-Pavlov&theme=flat&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
