@@ -20,7 +20,7 @@
 
 ---
 
-
+<br />
 <h2 align="center">What I work with</h2>
 
 <p>
@@ -32,7 +32,7 @@
 
 ---
 
-
+<br />
 <h2 align="center">What I'm about</h2>
 
 - Building UIs that are fast, accessible, and enjoyable to use
@@ -50,7 +50,7 @@
 
 ---
 
-
+<br />
 <h2 align="center">Statistics</h2>
 
 <p align="center">
