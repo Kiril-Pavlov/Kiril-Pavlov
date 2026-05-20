@@ -1,40 +1,73 @@
-<h1 align="center">Hi, I am Kiril 👋</h1>
+<h1 align="center">Hey, I'm Kiril 👋</h1>
 
 <p align="center">
-I am a enthusiastic web developer. <br />
-- 🌱 I’m currently working as a Full Stack Web Developer. <br />
-<a href="https://pavlov.mk/">Portfolio website</a>
+  Frontend developer based in Macedonia &middot; React · Next.js · Tailwind CSS &middot; Open to remote roles
 </p>
 
-<h2 align="center">Contact</h2>
-<div align="center">
-  <a href="mailto:kire_p@yahoo.com">
-    <img align="center" src="https://user-images.githubusercontent.com/20521233/162431057-69fb58c1-e62f-4cbf-a125-c93ed1c96279.png" height="50" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/kiril-pavlov/">
-    <img align="center" src="https://user-images.githubusercontent.com/20521233/162432724-6c328880-bf4f-4b05-8dab-d7c573e462df.png" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kiril%20Pavlov-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <a href="https://pavlov.mk/">
+    <img src="https://img.shields.io/badge/Portfolio-pavlov.mk-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kire_p@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-kire__p%40yahoo.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<h2 align="center">Languages and tools</h2>
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162416782-960a5f91-61e1-4776-a904-dcba015d2757.png" height="50" alt="HTML5"/>
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162417255-09660395-8d5c-47db-8600-87672ee67605.png" height="50" alt="CSS3" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162422318-366d12fa-6ed4-4726-9599-0612b75d9342.png" height="50" alt="JavaScript"/>
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/211316059-75bbcd1d-ed12-4681-864a-92236db34d9c.png" height="50" alt="Tailwind"/>
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162425992-18024120-3db8-4b6b-b4d6-53121617f742.png" height="50" alt="React" />
-  <img align="center" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50" alt="Next.js"/>
-  <img align="center" src="https://www.sanity.io/static/images/logo_rounded_square.png" height="50" alt="Sanity" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" height="50" alt="Nodejs" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317406-59de3b72-fae2-4486-b773-9d3c14c41ecc.svg" width="75" alt="MongoDB" />
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/211316788-508243bf-8c75-4275-9984-431bc512c535.svg" height="50" alt="Git"/>
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/162429537-c7f7fd1b-d0bc-43e3-b635-bb32d162fca2.png" height="50" alt="GitHub"/>
-  <img align="center" src="https://user-images.githubusercontent.com/20521233/211317104-4edc674a-db09-4338-8a05-019e93b278e2.svg" height="50" alt="VSCode"/>
+---
 
+## What I work with
 
-</div>
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## What I'm about
+
+- Building UIs that are fast, accessible, and enjoyable to use
+- Clean component architecture over clever hacks
+- Currently deepening TypeScript and Next.js App Router
+- Open to remote frontend roles with teams that care about quality
+
+---
+
+## Projects
+
+- 🎬 **[react-movie-app](https://github.com/Kiril-Pavlov/react-movie-app)** — Movie search and browsing app built with React and a public movie API
+- 🍕 **[pizza-app-react](https://github.com/Kiril-Pavlov/pizza-app-react)** — Interactive pizza ordering app in React
+
+---
+
+## Statistics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiril-Pavlov&theme=flat&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kiril-Pavlov&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiril-Pavlov&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiril-Pavlov&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Available for remote work · Frontend-focused · Quick to ramp up</i>
+</p>
 
 <h2 align="center">Statistics</h2>
 <div align="center">
